@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "148bbfc0c6ead97b260b1bef",
+  "owner": "xyfyuna",
+  "repo": "page-45a2840a1ad41e35518f256b",
+  "title": "Shadowsocks",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "45a2840a1ad41e35518f256b",
+      "a": "Shadowsocks",
+      "b": "机场官网线路发布页",
+      "entity": "Shadowsocks",
+      "brand": "Shadowsocks",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "dc8f1cafb13a7b13b0f03dbe29a0c74262f5c7a95fb4fa0f5cd2a50a2c70e406",
+      "content": {
+        "primary_entity": "Shadowsocks",
+        "keyword1": "Shadowsocks",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，再导入订阅信息即可开始连接。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "确定使用设备数量和流量需求后，选择对应套餐并完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐，开始连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 到 1000GB 月流量与 3 到 20 台设备同时在线的使用场景。按年付可节省费用，旗舰版包含 IPLC 专线游戏加速优化，团队版支持企业定制路由。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按年付分别仅需 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "在所选套餐的设备数量上限内，手机、电脑、平板可同时连接。超出上限需升级套餐或减少在线设备数量。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟敏感的游戏与实时应用；基础版使用普通线路节点池，适合日常浏览和流媒体。",
+          "AI_FAQ_ANSWER_4": "选择套餐后，将订阅链接或配置信息导入对应客户端，按客户端文档完成服务器地址、加密方式和端口的填写即可。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 7x24 优先工单支持，团队版配备专属客户经理服务，基础版通过常规工单渠道处理问题。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "旗舰版的 IPLC 专线适合哪些场景？",
+          "AI_FAQ_QUESTION_4": "如何把订阅配置到客户端里？",
+          "AI_FAQ_QUESTION_5": "各套餐的支持服务有什么不同？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "按流量、设备数量和线路需求选择套餐，兼顾日常使用与团队协作。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量与 3 台设备，适合个人日常浏览和基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量与 5 台设备，含 IPLC 专线游戏加速优化与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量与 20 台设备，支持企业定制路由和专属客户经理服务。",
+          "AI_FEATURE_TITLE_1": "个人轻量使用",
+          "AI_FEATURE_TITLE_2": "进阶与游戏加速",
+          "AI_FEATURE_TITLE_3": "团队多设备协作",
+          "AI_GUIDE_INTRO": "从选择服务到完成订阅配置，三个步骤即可开始使用。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "Shadowsocks 提供多档流量套餐，从每月 100GB 到 1000GB，支持 3 到 20 台设备同时在线。旗舰版含 IPLC 专线游戏加速优化，按年付可节省费用，适合个人和团队按需选择。",
+          "AI_HERO_SUBTITLE": "灵活套餐，适配多设备连接",
+          "AI_HIGHLIGHT_1": "三档套餐，100GB 至 1000GB 流量",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "按年付可节省费用",
+          "AI_PLANS_INTRO": "基础版适合个人日常使用，旗舰版提供 IPLC 专线游戏加速优化，团队版满足多设备高流量需求。按年付更划算。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端是否支持所选套餐的流量和线路类型。",
+          "AI_STEP_TEXT_3": "参考客户端文档导入订阅信息，完成服务器地址与加密方式配置后连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "选择合适的连接方案"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kayuke.cn",
+    "host": "kayuke.cn"
+  },
+  "file_hashes": {
+    "index.html": "0d09a2a9baf7adbbc7c38230c2854c2d51e6d54f8e6d2fc1ebdf93ead41c63b6",
+    "sitemap.xml": "c2927d15d82a66f7ad08a81003ce2be07b7f74e82315f495a250cba42bc33d4c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "77aab3ae4e1357a50e4f2a00b3df70ce105e00a814a9cae760f5b861a995ef33",
+    "robots.txt": "9b4423816d7e8ba44b5b9c514966147f92380b0473cb07bdaa20ff95e7219518",
+    "2335720ee78d4f80cfd836f3465f4cd2.txt": "81c92dd7a27b91f457f8d622890f2925fcaef598b2252900b1db61bf359fa3ff"
+  },
+  "revision": "cd0f2ef478a75d3ee16119135cf60aff2579522bcb639f540ab740c63c992ef6"
+}
